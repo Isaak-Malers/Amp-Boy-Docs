@@ -1,0 +1,4 @@
+site_name: Amp Boy
+nav:
+  - Overview: 'index.md'
+  - AB90: '90.md'
