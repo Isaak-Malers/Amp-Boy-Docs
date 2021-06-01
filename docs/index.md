@@ -1,4 +1,4 @@
-![AB-90](./Images/Beta-Units/CloseUp.jpg)
+![AB-90](./Images/90/bags.jpg)
 
 ## Overview
 
@@ -23,6 +23,11 @@ AB switches are housed in impact resistant FDM 3d prints (exact material may var
 ## Contactor Care
 
 AB switches will ship with a small piece of sandpaper.  The design is such that the contactors can be removed, and lapped with the sandpaper.  THis should greatly extend the lifespan of the switch;  As corosion builds up it can increase the resistance of the switch and lead to it over-heating under load.  Regularly servicing the contactors by sanding them smooth and clean again will solve this issue.
+
+## Environmental Impact
+
+* AB-90 switches are shipped in 100% post consumer recycled packaging.
+* Copper cast offs from contactors is 100% recycled.
 
 ## Bulk orders
 
