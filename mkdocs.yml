@@ -1,4 +1,7 @@
-site_name: Amp Boy
+site_name: AB-Switches
 nav:
-  - Overview: 'index.md'
-  - AB90: '90.md'
+  - Home: 'index.md'
+  - AB-30 : '30.md'
+  - AB-90: '90.md'
+  - AB-270 : '270.md'
+  - AB-810 : '810.md'
